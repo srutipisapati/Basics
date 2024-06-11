@@ -4,9 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
- interface Prime{
-	boolean isPrime(int n1,int n2);
-}
+
 public class PrimeRecursive {
 	
 	public static void main(String[] args) throws IOException
